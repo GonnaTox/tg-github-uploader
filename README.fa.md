@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![🌐 English Version](https://img.shields.io/badge/🌐_English_Version-README.md-blue?style=for-the-badge)](README.md) &nbsp; [![💰 Donate](https://img.shields.io/badge/💰_Support_the_Project-Donate-orange?style=for-the-badge)](#-support-the-project--donate)
+[![🌐 English Version](https://img.shields.io/badge/🌐_English_Version-README.md-blue?style=for-the-badge)](README.md) &nbsp; [![💰 Donation](https://img.shields.io/badge/💰_Donation-orange?style=for-the-badge)](#❤️)
+
 </div>
 
 > نسخه انگلیسی این راهنما موجود است: [README.md](README.md)
