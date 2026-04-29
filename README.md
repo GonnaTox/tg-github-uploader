@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![🇮🇷 نسخه فارسی](https://img.shields.io/badge/🇮🇷_نسخه_فارسی-README.fa.md-blue?style=for-the-badge)](README_fa.md) &nbsp; [![💰 Donate](https://img.shields.io/badge/💰_Support_the_Project-Donate-orange?style=for-the-badge)](#-support-the-project--donate)
+[![Persian](https://img.shields.io/badge/_Persian-README.fa.md-blue?style=for-the-badge)](README.fa.md) &nbsp; [![💰 Donate](https://img.shields.io/badge/💰_Support_the_Project-Donate-orange?style=for-the-badge)](#-support-the-project--donate)
 
 </div>
 
@@ -274,8 +274,6 @@ If this tool has been useful to you, consider supporting its continued developme
 
 <div align="center">
 
-> **How to copy an address:** click on it, select all, and copy — or scan with your wallet app.
->
 > Thank you for keeping this project alive. ❤️
 
 </div>
