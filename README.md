@@ -1,6 +1,12 @@
 # 📤 Telegram → GitHub File Upload Bot
 
-> نسخه فارسی این راهنما موجود است: [README.fa.md](README.fa.md)
+<div align="center">
+
+[![🇮🇷 نسخه فارسی](https://img.shields.io/badge/🇮🇷_نسخه_فارسی-README.fa.md-blue?style=for-the-badge)](README_fa.md) &nbsp; [![💰 Donate](https://img.shields.io/badge/💰_Support_the_Project-Donate-orange?style=for-the-badge)](#-support-the-project--donate)
+
+</div>
+
+> نسخه فارسی این راهنما موجود است: [README.fa.md](README_fa.md)
 
 > **Why this was built** — 28 April 2025
 >
@@ -240,3 +246,36 @@ uploads/2024-01-15/photo.jpg
 # With /setpath project/images:
 uploads/project/images/photo.jpg
 ```
+
+---
+
+## 💛 Support the Project — Donate
+
+<div align="center">
+
+This project was built out of necessity — to help people in Iran access their files freely, without relying on expensive VPNs.
+If this tool has been useful to you, consider supporting its continued development. Every contribution, big or small, is deeply appreciated. 🙏
+
+</div>
+
+<br>
+
+<div align="center">
+
+|  | Network | Address |
+|:---:|:---|:---|
+| 💎 | **TON** | `UQDPxrimgBU6Mil0dhDn0Fc303RLRXKr9hGGDu7bTEBdGGqs` |
+| 🔴 | **TRX (Tron)** | `TXix7uf6JPUKvWeUbA4A7wmQLVKnDbLRQU` |
+| 🔷 | **ETH (Ethereum)** | `0x1FC907d3396460f1Cd94E3BC48564b1b46b70026` |
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **How to copy an address:** click on it, select all, and copy — or scan with your wallet app.
+>
+> Thank you for keeping this project alive. ❤️
+
+</div>
