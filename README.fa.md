@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![🌐 English Version](https://img.shields.io/badge/🌐_English_Version-README.md-blue?style=for-the-badge)](README.md) &nbsp; [![💰 Donate(https://img.shields.io/badge/💰_حمایت_از_پروژه-کمک_مالی-orange?style=for-the-badge)](#-حمایت-از-پروژه--کمک-مالی)
+[![🌐 English Version](https://img.shields.io/badge/🌐_English_Version-README.md-blue?style=for-the-badge)](README.md) &nbsp; [![💰 Donation](https://img.shields.io/badge/💰_حمایت_از_پروژه-کمک_مالی-orange?style=for-the-badge)](#-حمایت-از-پروژه--کمک-مالی)
 
 </div>
 
@@ -391,6 +391,8 @@ uploads/پروژه/تصاویر/photo.jpg
 
 <div align="center">
 
+> **نحوه کپی آدرس:** روی آن کلیک کنید، همه را انتخاب و کپی کنید — یا با اپ کیف‌پول خود اسکن کنید.
+>
 > ممنون که این پروژه را زنده نگه می‌دارید. ❤️
 
 </div>
