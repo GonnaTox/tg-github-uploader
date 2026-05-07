@@ -6,7 +6,7 @@
 
 </div>
 
-> نسخه فارسی این راهنما موجود است: [README.fa.md](README_fa.md)
+> نسخه فارسی این راهنما موجود است: [README.fa.md](README.fa.md)
 
 > **Why this was built** — 28 April 2025
 >
